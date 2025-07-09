@@ -5,4 +5,4 @@ Welcome to **Home Inspection AI**, an end-to-end Generative AI–powered MVP tha
 
 ## Medium Article 
 
-Check out the article here - https://ravjot03.medium.com/from-paper-to-prediction-building-an-llm-powered-mvp-for-home-inspection-intelligence-5a3d2324cc74
+Check out the full article here - [Article](https://ravjot03.medium.com/from-paper-to-prediction-building-an-llm-powered-mvp-for-home-inspection-intelligence-5a3d2324cc74)
